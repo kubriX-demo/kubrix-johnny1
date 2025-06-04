@@ -1,0 +1,8 @@
+site_name: "johnny1"
+site_description: "Documentation for johnny1"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
